@@ -1,0 +1,322 @@
+SRPSKI
+
+Ko je napisao delo "Ana Karenjina"
+Lav Tolstoj
+Fjodor Dostojevski
+Anton Pavlovič Čehov
+A
+
+Kako se zvao Hamletov stric
+Polonije
+Horacije
+Klaudije
+Ozrik
+C
+
+Gde je sahranjen Dositej Obradović - otac nove srpske književnosti
+U Pirotu
+U Beogradu
+U Nišu
+U Kragujevcu
+B
+
+Koja godine je zvanična godina Vukove pobede
+1843
+1847
+1849
+B
+
+Ko je napisao delo "Dorotej" 
+Dobrilo Nenadić
+Ivo Andrić
+Vladimir Bulatović
+Đura Jakšić
+A
+
+Kako se zovu glavni likovi dela "Dva prijatelja" koji je napisao Gi De Mopasan
+Marko i Jovan
+Moriso i Sovaž
+Brana i Vladeta
+B
+
+Ko je napisao delo "Jablanovi"
+Radoje Domanović
+Svetozar Damjanović
+Jovan Dučić
+C
+
+Onomatopeja je način kazivanja kojim se predmetima i pojavama pripisuju ljudske osobine
+Tačno
+Netačno
+B
+
+Morfologija je deo gramatike koji proučava vrste reči i njihovu obličku strukturu, kao i sistem menjanja reči
+Tačno
+Netačno
+A
+
+Sta od navedenog spada u sastavne veznike
+I, pa, te, ni, niti
+A, ali, no, nego, već
+A
+
+BIOLOGIJA
+
+
+Koje godine je otkrivena salmonela:
+1856
+1945
+1885
+C
+
+Sta od navedenog spada pod vrstom mikoze:
+Makromikoze
+Subdermattomikoze
+Subkutane mikoze
+C
+
+Tartufe su: 
+Podzemne gljive
+Nadzemne gljive
+A
+
+Koju od sledecih uloga ima kapsid:
+pomaze pri fuziji spermatozoe 
+Štiti nukleinsku kiselinu od dejstva enzima ćelije domaćina. 
+Sortira i modifikuje proteine
+Sinteza i skladištenje organskih materija
+B
+
+Šta ne možemo naći od organela kod bakterijskih ćelija:
+Citoplazmu
+Ribozome
+Jedro
+C
+
+Prilikom zaraženosti čoveka bolešću Salmonela, najpoželjnije je u organizam unositi:
+Supe iz kesice
+Pasterizovano mleko
+Griz
+Jaja
+A
+
+Kako se nazivaju virusi koji inficiraju bakterije i u njima parazitiraju:
+Bakteriofagi
+Melanozom
+Peroksizom
+A
+
+Antibiotici se preporučuju prilikom lečenja svih oblika bolesti salmoneloza:
+Tačno
+Netačno
+B
+
+Kako se ne nazivaju udružene koke:
+Diplokoke
+Flagemokoke
+Streptokoke
+B
+
+Kakve mogu biti heterotrofne bakterije:
+Parazitske i Saprofitske 
+Gram-pozitine i Gram-negativne
+Mineralizatori i Azotofiksatori
+A
+
+MATEMATIKA
+
+Kako se naziva trougao sa svim jednakim stranicama
+Jednakokraki
+Jednakostranični
+Jednakougloviti
+B
+
+Kako se naziva broj načina na koje od n elemenata možemo odabrati k elemenata pri čemu nema ponavljanja elemenata i redosled je bitan
+Varijacije bez ponavljanja
+Permutacije bez ponavljanja
+Permutacije bez ponavljanja
+A
+
+Šta od navedenog ne spada u osobine funkcije
+Monotonost
+Parnost
+Diskriminantnost
+C
+
+Koliko iznosi logaritam od 1 sa osnovom x
+1
+x
+0
+x - 1
+C
+
+Koliko iznosi sinus od 0
+0
+1
+-1
+1/2
+A
+
+HEMIJA
+
+Šta od navedenog ne spada u sastav nukleotida
+Organska azotna baza
+Masti sa 5 ugljenikovih atoma 
+Fosforna grupa
+B
+
+Šta od navedenog spada u pirimidinske baze
+Adenin
+Guanin
+Uracil
+C
+
+Dva lanca u  DNK molekulu nisu komplementarna
+Tačno
+Netačno
+B
+
+Geni čine skup svih uputstava koji su neophodni za funkcionisanje ćelija
+Tačno
+Netačno
+A
+
+Od koliko ugljenikovih atoma se sastoji palmatinska kiselina
+10
+12
+14
+16
+D
+
+Najjača kiselina je
+Benzenova
+Heksanska
+Pentanska
+Etanska
+D
+
+Derivati kisleina su
+Amidi
+Aldehidi
+Soli
+A
+
+Glukoza je po hemijskom sastavu
+Polihidroksilni aldehid
+Polihidroksilni alkohol
+Polikarboksilna kiselina
+Polihidroksilni keton
+A
+
+Propanska kisleina nastaje
+Oksidacijom 3-propanola
+Oksidacijom 1-propanola
+Oksidacijom 2-propanola
+B
+
+Celuloza je
+Heteropolisaharid
+Skladišni polisaharid
+Strukturni homopolisaharid
+Rezervni homopolisaharid
+C
+
+ISTORIJA
+
+Koje godine je izveden Puč u Minhenu
+1919
+1921
+1923
+1924
+C
+
+Koje godine je osnovana Savezna komunistička partija
+1898
+1893
+1885
+1876
+A
+
+Prilikom osnivanja Društva naroda koliko država je prvobitno ušlo
+14
+23
+7
+32
+D
+
+Ko je bio na čelu vlade u periodu od proglašenja SHS-a do donošenja ustava
+Svetozar Pribićević
+Stojan Protić
+Ante Trumbić
+B
+
+Ko je 28. juna 1914. ubio austrougarskog prestolonaslednika Franca Ferdinanda
+Anton Krošac
+Ljubomir Davidović
+Gavrilo Princip
+C
+
+Od koje do koje godine je trajala Staljingradska bitka
+1923 - 1924
+1934 - 1935
+1942 - 1943
+1948 - 1949
+C
+
+Koje dve države su potpisale pakt Ribentrop-Molotov
+Nemačka i SSR
+Austrougarska i Italija
+Jugoslavija i Italija
+A
+
+Srbija je prihvatila ultimatum koji joj je Austrougarska zadala 1914. 
+Tačno
+Netačno
+B
+
+Koja država nije pripadala Centralnim silama za vreme Prvog svetskog rata
+Japan
+Nemačka
+Turska
+Austrougarska
+A
+
+Ko je zastupao Srbiju na Berlinskom kongresu
+Nikola Pašić
+Jovan Ristić
+Stojan Novaković
+B
+
+FIZIKA
+
+Koliko iznosi brzina svetlosti u metrima u sekundi
+300 000 000
+200 000 000
+250 000 000
+350 000 000
+A
+
+Brzinu svetlosti nikada ne može dostići materijalno telo
+Tačno
+Netačno
+A
+
+Od čega zavisi zaustavni napon
+Intenziteta svetlosti
+Impulsa fotona
+Frekvencije
+C
+
+Šta od navedenog ne spada u talasni fenomen
+Difrakcija
+Interferencija
+Fotoefekat
+C
+
+Šta predstavlja ukupna površina ispod krive zavisnosti emisione moći od talasne dužine i temperature
+Univerzalnu funkciju temperature i talasne dužine
+Ukupna emisiona moć
+Ukupna spektralna moć
+B
+
+
